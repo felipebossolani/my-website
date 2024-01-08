@@ -73,12 +73,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
             to: '/books/to-read', 
             label: 'Livros', 
             position: 'left'
