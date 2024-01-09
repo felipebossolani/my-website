@@ -90,6 +90,10 @@ const config = {
                 to: 'https://www.linkedin.com/in/felipebossolani/',
               },
               {
+                label: 'Github',
+                to: 'https://github.com/FelipeBossolani',
+              },
+              {
                 label: 'Twitter',
                 to: 'https://twitter.com/FelipeBossolani',
               },
